@@ -33,16 +33,18 @@
 `Neural Networks` `Deep Learning` `Model Training` `AI Agents`
 
 ---
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
+<div align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="40%" alt="Nyan Cat" />
+</div>
 
 ---
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://instagram.com/hazeishhhh77" target="_blank">
+  <a href="https://instagram.com/mahekk23” target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/hazel-lakshmana-21b566379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/mahek-yadav-31b50b37a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
