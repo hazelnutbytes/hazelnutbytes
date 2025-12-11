@@ -44,7 +44,7 @@
   <a href="https://instagram.com/mahekk23” target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahek-yadav-31b50b37a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/hazel-lakshmana-21b566379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
