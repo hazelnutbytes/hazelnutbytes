@@ -1,36 +1,36 @@
 <h1 align="center">🤖 Hey, I'm Hazel</h1>
-<h3 align="center">1st Year B.Tech Student • AI & ML Explorer</h3>
-
-
-
-<!-- AI Purple Animation -->
-
+<h3 align="center">1st Year B.Tech Student • Aspiring AI & ML Engineer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🤖 Passionate AI & Machine Learning student  
-- 🧠 Learning: Python, NumPy, Pandas, scikit-learn  
-- 📊 Interested in ML models, data analysis & automation  
-- 🔍 Exploring: Neural networks, ML pipelines, AI agents  
-- 🎯 Goal 2025: Build industry-level AI/ML projects & publish my first ML research
+- 🎓 Computer Science undergraduate  
+- 🐍 Practicing Python programming through mini programs & logic building  
+- 🗄️ Learning SQL for structured data handling and queries  
+- 🌐 Familiar with basic HTML  
+- 🤖 Aspiring AI & Machine Learning engineer, currently building strong fundamentals  
+- 📈 Using GitHub to track my learning progress and daily practice  
 
 ---
 
 ## 🔥 Tech Stack
 
 **Languages:**  
-`Python` `SQL` `JavaScript`  
+`Python` `SQL` `HTML (Basic)`  
 
-**AI & ML:**  
-`NumPy` `Pandas` `Matplotlib` `scikit-learn` `Jupyter` `Data Analysis`  
-`Machine Learning Models` `AI Automation`  
+**Currently Practicing & Learning:**  
+`Python Basics` `Functions` `Loops` `Problem Solving`  
+`SQL Queries` `Joins` `Group By`  
+`Basic Data Analysis (Beginner Level)`  
+
+**AI & ML (Beginner):**  
+`NumPy` `Pandas` `Matplotlib` 
 
 **Tools:**  
-`Google Colab` `VS Code` `Git` `Figma`  
+`VS Code` `Git` `GitHub` 
 
-**Currently Learning:**  
-`Neural Networks` `Deep Learning` `Model Training` `AI Agents`
+**Currently Exploring:**  
+`Machine Learning Fundamentals` `Model Training Basics`  
 
 ---
 <div align="center">
@@ -44,8 +44,7 @@
   <a href="https://www.instagram.com/hazeishhhhh77?igsh=empicDcwMXg3NnNu">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/hazel-lakshmana-21b566379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://www.linkedin.com/in/hazel-lakshmana-21b566379">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-
 </p>
